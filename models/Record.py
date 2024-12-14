@@ -1,4 +1,4 @@
-from factories import FieldFactory,FieldType
+from factories import FieldFactory, FieldType
 
 
 class Record:

@@ -1,5 +1,6 @@
-from .FieldType import FieldType
 from models import Name, Phone
+
+from .FieldType import FieldType
 
 
 class FieldFactory:

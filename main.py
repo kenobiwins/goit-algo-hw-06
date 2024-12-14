@@ -1,6 +1,6 @@
 from address_book import AddressBook
-from models import Record
 from commands import AddRecordCommand, DeleteRecordCommand, FindRecordCommand
+from models import Record
 
 
 def main():

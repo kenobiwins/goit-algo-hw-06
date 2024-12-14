@@ -1,5 +1,7 @@
 from collections import UserDict
+
 from memento import Memento
+
 
 class AddressBook(UserDict):
     __instance = None
